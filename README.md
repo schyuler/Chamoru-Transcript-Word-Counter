@@ -1,6 +1,6 @@
-# HonggaMona
+# Chamoru Transcript Word Count
 
-A word frequency analysis of the Hongga Mo'na transcripts. This will be used to support language learners by helping students target their vocabulary building efforts.
+Program to clean transcripts that are in Chamoru and provide a list of word frequencies. This will be used to support language learners by helping students target their vocabulary building efforts. The transcript used in this particular file is a copy of the Hongga Mo'na transcripts.
 
 ## About Hongga Mo'na
 
